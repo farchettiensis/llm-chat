@@ -214,7 +214,8 @@ table {
     padding-top: 50px;
 }
 
-/* .menu-lateral-navegacao {
+/* Maior centralização do menu lateral
+.menu-lateral-navegacao {
     display: flex;
     flex-direction: column;
     justify-content: center;
